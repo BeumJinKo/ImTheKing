@@ -5,6 +5,5 @@ public class honghonghong {
 		int a;
 		a = 1000000000;
 		
-		a += 10;
 	}
 }
